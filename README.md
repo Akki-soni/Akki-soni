@@ -42,7 +42,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![](https://github-profile-trophy.vercel.app/?username=shanedrasingh&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/shanedrasingh)<br><br>
+[![](https://github-profile-trophy.vercel.app/?username=Akki-soni&theme=https%3A%2F%2Fgithub-profile-trophy.vercel.app%2F%3Fusername%3Dryo-ma%26theme%3Dradical)](https://github.com/Akki-soni)<br><br>
 
 ---
 
