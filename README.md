@@ -62,7 +62,7 @@
 | :--: | :--------------- | :------------------------------------------------------: | :------------------------------------------------------------: |
 |  01  | Spotify Music Web      |       [Link](https://spotify-tan-iota.vercel.app/)       |    [Repository](https://github.com/Akki-soni/Spotify)    |
 
-<a href="https://github.com/https:ShanedraSingh">
+<a href="https://github.com/Akki-soni/Akki-soni/tree/main">
   <img src="https://imgur.com/rilHVxA.png"/>
 </a>
 
