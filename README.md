@@ -39,3 +39,33 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akki-soni&show_icons=true&locale=en" alt="akki-soni" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akki-soni&" alt="akki-soni" /></p>
+
+## 🏆 GitHub Trophies
+
+[![](https://github-profile-trophy.vercel.app/?username=shanedrasingh&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/shanedrasingh)<br><br>
+
+---
+
+
+## 🧑‍🏫 All Projects
+
+| S.No | Major Project  |                        Live Link                        |                         GitHub Link                          |                                                                               Linked Post                                                                                |
+| :--: | :------------- | :-----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  01  | Wanderlust       | [Link](https://wanderlust-project-shanedra.onrender.com)       | [Repository](https://github.com/ShanedraSingh/wanderlust-project)       |     [Post](https://www.linkedin.com/posts/shanedra-singh-47342821a_hello-everyone-im-presenting-wanderlust-activity-7227628574596288512-l5uT?utm_source=share&utm_medium=member_desktop)      |
+
+
+| S.No | Mini Major Project |                       Live Link                        |                                 GitHub Link                                  |
+| :--: | :----------------- | :----------------------------------------------------: | :--------------------------------------------------------------------------: |
+|  01  | Life Track         |     [Link]()      |           [Repository](#)            |
+
+| S.No | Small Project    |                        Live Link                         |                          GitHub Link                           |
+| :--: | :--------------- | :------------------------------------------------------: | :------------------------------------------------------------: |
+|  01  | Travel_website      |       [Link](https://shanedrasingh.github.io/Travel_website/)       |    [Repository](https://github.com/ShanedraSingh/Travel_website)    |
+
+<a href="https://github.com/https:ShanedraSingh">
+  <img src="https://imgur.com/rilHVxA.png"/>
+</a>
+
+<!-- <h3>Thanks! &#10084;<i class="fa fa-heart" style="font-size:48px;color:red"></i></h3> -->
+<h3>Thanks! &#10084;</h3>
+
