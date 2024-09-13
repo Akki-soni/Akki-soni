@@ -17,7 +17,7 @@
 
 - 🤝 Project 3 [Spotify Clone](https://spotify-tan-iota.vercel.app/)
 
-- - 🌱 I’m currently learning **D.S.A. With JAVA & C++**
+- 🌱 I’m currently learning **D.S.A. With JAVA & C++**
 
 - 💬 Ask me about **Full Stack Web Development**
 
