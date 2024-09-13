@@ -51,16 +51,16 @@
 
 | S.No | Major Project  |                        Live Link                        |                         GitHub Link                          |                                                                               Linked Post                                                                                |
 | :--: | :------------- | :-----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  01  | Wanderlust       | [Link](https://wanderlust-project-shanedra.onrender.com)       | [Repository](https://github.com/ShanedraSingh/wanderlust-project)       |     [Post](https://www.linkedin.com/posts/shanedra-singh-47342821a_hello-everyone-im-presenting-wanderlust-activity-7227628574596288512-l5uT?utm_source=share&utm_medium=member_desktop)      |
+|  01  | WANDERLUST - A Traveller's Website       | [Link](https://wanderlust-a-traveller-s-website.onrender.com/)       | [Repository](https://github.com/Akki-soni/WANDERLUST-A-Traveller-s-Website)       |     [Post](https://www.linkedin.com/feed/update/urn:li:activity:7239111889635491843/)      |
 
 
 | S.No | Mini Major Project |                       Live Link                        |                                 GitHub Link                                  |
 | :--: | :----------------- | :----------------------------------------------------: | :--------------------------------------------------------------------------: |
-|  01  | Life Track         |     [Link]()      |           [Repository](#)            |
+|  01  | PG Life         |     [Link](https://pg-lifes.vercel.app/)      |           [Repository](https://github.com/Akki-soni/PG-Lifes)            |
 
 | S.No | Small Project    |                        Live Link                         |                          GitHub Link                           |
 | :--: | :--------------- | :------------------------------------------------------: | :------------------------------------------------------------: |
-|  01  | Travel_website      |       [Link](https://shanedrasingh.github.io/Travel_website/)       |    [Repository](https://github.com/ShanedraSingh/Travel_website)    |
+|  01  | Spotify Music Web      |       [Link](https://spotify-tan-iota.vercel.app/)       |    [Repository](https://github.com/Akki-soni/Spotify)    |
 
 <a href="https://github.com/https:ShanedraSingh">
   <img src="https://imgur.com/rilHVxA.png"/>
