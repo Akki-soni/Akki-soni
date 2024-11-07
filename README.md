@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 <h1 align="center">Hi 👋, I'm Akash Chandra Verma</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <p align="center">
   <b style="color: blue;  ">Visitor count</b>
   <br>
